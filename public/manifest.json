@@ -2,7 +2,7 @@
   "name": "Circa — 90-Minute Sleep Cycle Alarm",
   "short_name": "Circa",
   "description": "Set alarms at exact 90-minute sleep cycle boundaries so you wake up refreshed.",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0B0E14",
