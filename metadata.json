@@ -1,0 +1,6 @@
+{
+  "name": "Circa — 90-Minute Sleep Cycle Alarm",
+  "description": "Android-style sleep cycle alarm clock that calculates 90-minute ultradian sleep cycles and sets gentle wake-up alarms at exact cycle boundaries so you wake up refreshed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
